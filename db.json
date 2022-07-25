@@ -6,14 +6,39 @@
       "email": "Yogesh@gmail.com"
     },
     {
-      "id": 2,
-      "stuname": "Himanshu",
-      "email": "Himanshu@gmail.com"
-    },
-    {
-      "id": 1,
+      "id": 3,
       "stuname": "Jatin",
       "email": "Jatin@gmail.com"
+    },
+    {
+      "id": 4,
+      "stuname": "Piyush",
+      "email": "Piyush@gmail.com"
+    },
+    {
+      "id": 5,
+      "stuname": "Ankit",
+      "email": "Ankit@gmail.com"
+    },
+    {
+      "id": 6,
+      "stuname": "Prashant",
+      "email": "Prashant@gmail.com"
+    },
+    {
+      "stuname": "Raghvendra",
+      "email": "Raghvendra@gmail.com",
+      "id": 7
+    },
+    {
+      "stuname": "Kuldeep",
+      "email": "Kuldeep@gmail.com",
+      "id": 8
+    },
+    {
+      "stuname": "Himanshu",
+      "email": "Himanshu@gmail.com",
+      "id": 10
     }
   ]
 }
